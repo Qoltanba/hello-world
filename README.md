@@ -1,6 +1,6 @@
 # hello-world
 Lets start to work here
-Are can we coding here?
+Can we coding here?
 
 
 print ('Приветствуем вас в калькуляторе Python')
