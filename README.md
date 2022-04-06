@@ -1,7 +1,5 @@
 # hello-world
 Lets start to work here
-Can we coding here?
-
 print ('Приветствуем вас в калькуляторе Python')
 q1 = int (input('Введите число 1: '))
 q2 = int (input('Введите число 2: '))
@@ -14,7 +12,7 @@ if v == 1:
     t = p
 if v == 2:
     r = q1 - q2
-    l = 'вычитания'
+    l = 'вычита'
     t = l
 if v == 3:
     r = float(q1 / q2)
