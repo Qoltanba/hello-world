@@ -8,19 +8,19 @@ v = int (input('Какую операцию вы хотите выполнить
 
 if v == 1:
     r = q1 + q2
-    p = 'сложе'
+    p = 'сложеfffff'
     t = p
 if v == 2:
     r = q1 - q2
-    l = 'вычита'
+    l = 'вычитаfffffff'
     t = l
 if v == 3:
     r = float(q1 / q2)
-    m = 'деле'
+    m = 'делеffffff'
     t = m
 if v == 4:
     r = q1 * q2
-    n = 'умноже'
+    n = 'умножеfffff'
     t = n
 print ('Результат ',t,' = ',r)
 
